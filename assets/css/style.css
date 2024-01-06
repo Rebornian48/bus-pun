@@ -22,7 +22,6 @@
     bottom: 0;
     left: 0;
     right: 0;
-    display: block;
     z-index: 1;
     background-repeat: repeat-x;
     animation: highway 5s linear infinite;
@@ -42,7 +41,6 @@
     bottom: 180px;
     left: 0;
     right: 0;
-    display: block;
     z-index: 1;
     background-repeat: repeat-x;
     animation: city 5s linear infinite;
